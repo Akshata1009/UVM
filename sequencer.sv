@@ -5,4 +5,4 @@ class apb_sequencer extends uvm_sequencer#(apb_tx);
         endfunction
 endclass
 
-
+CLASS MODULE 
